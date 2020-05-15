@@ -19,7 +19,13 @@ How do we begin to adopt Data Science ?
 - Accourding to the defined goal we can start `collecting data`
 - 
 
-Do I need to apply Deep Leaning?
+How much data do I need to collect ?
+-
+
+What evaluation metric do I use ? How much accuracy is good enough ?
+-
+
+Do I need to apply Deep Leaning ?
 -
 
 Do I need highend computation power ?
@@ -27,3 +33,6 @@ Do I need highend computation power ?
 
 Which GPU will fit for you by power and cost?
 -
+
+
+for consultation contact me at minesh.1291[at]gmail.com

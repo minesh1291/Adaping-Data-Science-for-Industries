@@ -12,6 +12,16 @@ Do We need Data Science Team ?
 What Data Science can do and can't do for you?
 -
 
+Some signs you shouldn't be using #machinelearning / #ai:
+
+[src](https://www.linkedin.com/in/cassie-kozyrkov-9531919/)
+*  you're not intending to automate something
+*  you've got no data or small data
+*  you can look up the answer
+*  there's no pattern that connects inputs to outputs
+*  you can find a recipe today but you're pretty sure it won't be relevant tomorrow (severe nonstationarity)
+
+
 
 How do we begin to adopt Data Science ?
 - 

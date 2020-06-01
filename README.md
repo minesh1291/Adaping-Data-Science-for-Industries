@@ -64,4 +64,4 @@ Which GPU will fit for you by power and cost?
 -
 
 
-for consultation contact me at minesh.1291[at]gmail.com
+for consultation contact me at minesh.1291[at]gmail.com [on linkedin](https://www.linkedin.com/in/mineshjethva/)

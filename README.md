@@ -5,6 +5,8 @@ What is Data Science ?
 - 
 <p align="justify"> They help businesses to make impact utilizing big data. Big data is very quickly becoming a vital tool for businesses and companies of all sizes. The availability and interpretation of big data has altered the business models of old industries and enabled the creation of new ones. Data-driven businesses are worth $1.2 trillion collectively in 2020, an increase from $333 billion in the year 2015. Data scientists are responsible for breaking down big data into usable information and creating software and algorithms that help companies and organizations determine optimal operations. As big data continues to have a major impact on the world, data science does as well due to the close relationship between the two.
 
+![Role of Data Science](https://github.com/minesh1291/Adaping-Data-Science-for-Industries/raw/master/images/0_H200UYCchrlMPB67.png)
+
 Do We need Data Science Team ?
 -
 <p align="justify"> Yes. If you are dealing with `fairly good amount of data` then adopting data science as the new company lifestyle is relevant. This data can be from Sales, Marketing, Advertisements, Production, Quality Assurance. Data Science can help you to look into this large amount of data, summarise it, learn from the data (as model), predict the outcomes for given senario and help you to make further descisions.

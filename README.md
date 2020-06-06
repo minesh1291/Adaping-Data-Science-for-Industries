@@ -31,7 +31,7 @@ How do we begin to adopt Data Science ?
 
 Keys to successfully implement machine learning solutions in your organization
 
-[src](https://analyticsindiamag.com/the-7-keys-to-successfully-implement-machine-learning-in-your-company/)
+[src](https://analyticsindiamag.com/)
   1. **Machine learning is a cultural change**: The technology associated with machine learning and algorithms evolve very quickly, and it is not easy to keep up with them. The main change must, therefore, take place in the company culture: collaboration between the different business areas and the shared use of information must be encouraged in order for the implementation of machine learning to be successful.
 
   2. **Define an objective as clear and specific as possible**: It is important that the teams that are going to tackle the machine learning projects identify the problems that they want to face, applying the maximum degree of precision: for example, it is not the same to have the objective of increasing online sales by a certain percentage than to specify what is the desired Increase of online sales percentage by monitoring the site’s visitors.

@@ -1,5 +1,5 @@
 # Adaping-Data-Science-for-Industries
-still a draft - add your Q's here
+still a draft - add your Q's [here](https://github.com/minesh1291/Adaping-Data-Science-for-Industries/issues/new)
 
 What is Data Science ?
 - 

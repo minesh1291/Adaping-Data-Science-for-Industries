@@ -16,7 +16,6 @@ What Data Science can do and can't do for you?
 
 Some signs you shouldn't be using #machinelearning / #ai:
 
-[src](https://www.linkedin.com/in/cassie-kozyrkov-9531919/)
 *  if you're not intending to automate something
 *  if you've got no data or small data
 *  when you can look up the answer
@@ -31,7 +30,6 @@ How do we begin to adopt Data Science ?
 
 Keys to successfully implement machine learning solutions in your organization
 
-[src](https://analyticsindiamag.com/)
   1. **Machine learning is a cultural change**: The technology associated with machine learning and algorithms evolve very quickly, and it is not easy to keep up with them. The main change must, therefore, take place in the company culture: collaboration between the different business areas and the shared use of information must be encouraged in order for the implementation of machine learning to be successful.
 
   2. **Define an objective as clear and specific as possible**: It is important that the teams that are going to tackle the machine learning projects identify the problems that they want to face, applying the maximum degree of precision: for example, it is not the same to have the objective of increasing online sales by a certain percentage than to specify what is the desired Increase of online sales percentage by monitoring the site’s visitors.
@@ -52,6 +50,20 @@ Keys to successfully implement machine learning solutions in your organization
 
 How much data do I need to collect ?
 -
+This is a tough question to answer without any prior knowledge of specific case of its application. 
+However, there are few things which you should generally concider while planning data collection for model building:
+
+  1. **Population size**:
+  How large is the population? is there dependancy with time? What timeframe of data are you looking at OR interested in - is it few days/months/years or are you only interested in subset of the population or you can collect only fixed amount of data considering resource limitations and want to prepare model from that.
+
+  2. **Variance**:
+  What's the variance of the sample? If it's continues or discrete data, how many unique values are there? Having a metric around this will help determine the number of samples you'll need. If this is a low variance set, you may only need a few hundred/thousand observations.
+
+  3. **Present Clusters in Data**:
+  Is your data grouped in a meaningful way? If so, you'll need to factor this into your sample. Depending on what you're doing, you'll want a meaningful representation of the population. If the data is not grouped, but has distinct groups within it that you care about, you may need to stratify or pre-process your data.
+
+  4. **Model and Goals**:
+  All of this ends up coming down to what you're trying to do. If you're trying to classify or parse a set of unique entities, you may be better off streaming a large set of your data rather than trying to sample it. If you're trying to classify images or customers based on behavior, you may only need a small subset depending on how these groups differ.
 
 What evaluation metric do I use ? How much accuracy is good enough ?
 -
@@ -65,5 +77,7 @@ Do I need highend computation power ?
 Which GPU will fit for you by power and cost?
 -
 
+ref: 
+[1](https://www.linkedin.com/in/cassie-kozyrkov-9531919/), [2](https://analyticsindiamag.com/), [3](https://datascience.stackexchange.com/)
 
 for consultation contact me at minesh.1291[at]gmail.com [on linkedin](https://www.linkedin.com/in/mineshjethva/)

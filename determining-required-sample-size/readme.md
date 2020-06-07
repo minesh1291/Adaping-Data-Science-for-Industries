@@ -180,3 +180,11 @@ Once an effect size has been estimated, the following table can be used to estim
 </table>
 
 As mentioned above, the alpha is equal to the acceptable probability of the type I error and beta is the acceptable probability of type two errors and 1-beta equal to the power. As the power will increase with different levels of alpha, sample size will also increase.
+
+Classification & Regression Errors
+-
+- **Point Estimation: Hoeffding’s Inequality**
+  Let E be the positive tolerance value and N the sample size of the data set. Then we can compute Hoeffding's inequality, p = 1 - ( 2 * EXP( -2 * ( E^2 ) * N) ). Let E = 0.05 (±5%) and N = 750, then p = 0.9530. This means that with a certainty of 95.3% your (in-sample) test error won't deviate more than 5% out of sample.
+
+
+

@@ -77,6 +77,8 @@ Do I need highend computation power ?
 Which GPU will fit for you by power and cost?
 -
 
+[List of applied machine learning and data science projects for various industrial problems](https://github.com/minesh1291/Adaping-Data-Science-for-Industries/blob/master/relevant-tools-to-your-domain/readme.md)
+
 ref: 
 [1](https://www.linkedin.com/in/cassie-kozyrkov-9531919/), [2](https://analyticsindiamag.com/), [3](https://datascience.stackexchange.com/)
 

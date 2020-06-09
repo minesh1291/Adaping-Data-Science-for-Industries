@@ -79,6 +79,13 @@ Which GPU will fit for you by power and cost?
 
 [List of applied machine learning and data science projects for various industrial problems](https://github.com/minesh1291/Adaping-Data-Science-for-Industries/blob/master/relevant-tools-to-your-domain/readme.md)
 
+Some common issues you can encounter
+-
+ while designing and appling data science approaches
+  1. It is hard to **determine scope** of the project where data science is more about exploration and finding insights to help making business decisions. Data science project most of the time does not fit the conventions of project management.
+  2. **Impact in real world can't be measured** while developing algorithms. It can be only validated with available limited examples.
+  3. 
+
 ref: 
 [1](https://www.linkedin.com/in/cassie-kozyrkov-9531919/), [2](https://analyticsindiamag.com/), [3](https://datascience.stackexchange.com/)
 

@@ -28,6 +28,8 @@ How do we begin to adopt Data Science ?
 - Accourding to the defined goal we can start `collecting data`
 -  
 
+<div style="text-align:center"><img src="https://github.com/minesh1291/Adaping-Data-Science-for-Industries/raw/master/images/Building-Data-Science-Solution.jpg" alt="Building-Data-Science-Solution"/></div>
+
 Keys to successfully implement machine learning solutions in your organization
 
   1. **Machine learning is a cultural change**: The technology associated with machine learning and algorithms evolve very quickly, and it is not easy to keep up with them. The main change must, therefore, take place in the company culture: collaboration between the different business areas and the shared use of information must be encouraged in order for the implementation of machine learning to be successful.
@@ -48,7 +50,6 @@ Keys to successfully implement machine learning solutions in your organization
       -  **API**: the advantage of using packaged APIs if assigned directly to your need without requiring any modifications.
       -  **View, verify and control versions**: data is the fundamental part of a machine learning project, and to manage this huge volume of information, it is necessary to trust tools such as those offered by Google, such as Google Cloud Dataprep and BigQuery, to visualize the data and verify the results in each phase of the process. It is also important to apply version control, to clearly identify the data that is acted on and avoid costly mistakes.
 
-<div style="text-align:center"><img src="https://github.com/minesh1291/Adaping-Data-Science-for-Industries/raw/master/images/Building-Data-Science-Solution.jpg" alt="Building-Data-Science-Solution"/></div>
 
 How much data do I need to collect ?
 -

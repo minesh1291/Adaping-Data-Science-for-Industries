@@ -4,7 +4,8 @@ still a draft - add your Q's [here](https://github.com/minesh1291/Adaping-Data-S
 ### What is Data Science ?
 - 
 <p align="justify"> They help businesses to make impact utilizing big data. Big data is very quickly becoming a vital tool for businesses and companies of all sizes. The availability and interpretation of big data has altered the business models of old industries and enabled the creation of new ones. Data-driven businesses are worth $1.2 trillion collectively in 2020, an increase from $333 billion in the year 2015. Data scientists are responsible for breaking down big data into usable information and creating software and algorithms that help companies and organizations determine optimal operations. As big data continues to have a major impact on the world, data science does as well due to the close relationship between the two.
-
+</p>
+  
 <div style="text-align:center"><img src="https://github.com/minesh1291/Adaping-Data-Science-for-Industries/raw/master/images/0_H200UYCchrlMPB67.png" alt="Roles in Data Science"/></div>
 
 ### Do We need Data Science Team ?

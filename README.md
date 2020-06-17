@@ -93,4 +93,4 @@ Some common issues you can encounter
 ref: 
 [1](https://www.linkedin.com/in/cassie-kozyrkov-9531919/), [2](https://analyticsindiamag.com/), [3](https://datascience.stackexchange.com/)
 
-for consultation contact me at minesh.1291[at]gmail.com [on linkedin](https://www.linkedin.com/in/mineshjethva/)
+is it relevant to you? want to know more? contact me at minesh.1291[at]gmail.com [on linkedin](https://www.linkedin.com/in/mineshjethva/)

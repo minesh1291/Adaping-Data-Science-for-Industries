@@ -10,7 +10,7 @@ still a draft - add your Q's [here](https://github.com/minesh1291/Adaping-Data-S
 
 ### Do We need Data Science Team ?
 -
-<p align="justify"> Yes. If you are dealing with `fairly good amount of data` then adopting data science as the new company lifestyle is relevant. This data can be from Sales, Marketing, Advertisements, Production, Quality Assurance. Data Science can help you to look into this large amount of data, summarise it, learn from the data (as model), predict the outcomes for given senario and help you to make further descisions.
+<p align="justify"> Yes. If you are dealing with `fairly good amount of data` then adopting data science as the new company lifestyle is relevant. This data can be from Sales, Marketing, Advertisements, Production, Quality Assurance. Data Science can help you to look into this large amount of data, summarise it, learn from the data (as model), predict the outcomes for given senario and help you to make further descisions. </p>
 
 ### What Data Science can do and can't do for you?
 -
@@ -23,7 +23,7 @@ Some signs you shouldn't be using #machinelearning / #ai:
 *  if there's no pattern that connects inputs to outputs
 *  if your data is nonstationary, you can find a recipe today but you're pretty sure it won't be relevant tomorrow (severe nonstationarity)
 
-### How do we begin to adopt Data Science ?
+How do we begin to adopt Data Science ?
 - 
 - First we have to `define the objective` for Data Science Project
 - Accourding to the defined goal we can start `collecting data`
@@ -52,7 +52,7 @@ Keys to successfully implement machine learning solutions in your organization
       -  **View, verify and control versions**: data is the fundamental part of a machine learning project, and to manage this huge volume of information, it is necessary to trust tools such as those offered by Google, such as Google Cloud Dataprep and BigQuery, to visualize the data and verify the results in each phase of the process. It is also important to apply version control, to clearly identify the data that is acted on and avoid costly mistakes.
 
 
-### How much data do I need to collect ?
+How much data do I need to collect ?
 -
 This is a tough question to answer without any prior knowledge of specific case of its application. 
 However, there are few things which you should generally concider while planning data collection for model building:
@@ -83,7 +83,7 @@ Which GPU will fit for you by power and cost?
 
 [List of applied machine learning and data science projects for various industrial problems](https://github.com/minesh1291/Adaping-Data-Science-for-Industries/blob/master/relevant-tools-to-your-domain/readme.md)
 
-### Some common issues you can encounter
+Some common issues you can encounter
 -
  while designing and appling data science approaches
   1. It is hard to **determine scope** of the project where data science is more about exploration and finding insights to help making business decisions. Data science project most of the time does not fit the conventions of project management.
